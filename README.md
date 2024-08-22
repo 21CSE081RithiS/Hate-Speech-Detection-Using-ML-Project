@@ -1,4 +1,5 @@
-
+![Hate Speech](https://github.com/user-attachments/assets/1d8b9161-e43d-4429-b4f8-4afffb9d7a9a)
+![Not a Hate Speech](https://github.com/user-attachments/assets/dbbff7cc-7efb-450a-ae5c-a78d0b74485e)
 This project aims to classify whether an input sentence constitutes hate speech using a machine learning algorithm. The key steps involved in this process are as follows:
 
 Loading the Dataset: Importing the dataset for processing.
